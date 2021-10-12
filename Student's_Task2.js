@@ -1,8 +1,4 @@
 //  LESSON 2:
-
-
-
-
 console.log("===Task#1===========================================");
 //1. Task
 // You were paid 5000 in January, and in February you were paid 20% more.
